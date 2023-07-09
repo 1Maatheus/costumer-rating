@@ -100,7 +100,7 @@ body {
   height: 50%;
 }
 
-@media (max-width: 410px) {
+@media (max-width: 510px) {
   .left {
     width: 100%;
   }
