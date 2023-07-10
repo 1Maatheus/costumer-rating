@@ -66,6 +66,7 @@ body {
 
 .rate {
   display: flex;
+  justify-content: center;
   background-color: hsl(300, 24%, 96%);
   padding: 20px 60px;
   border-radius: 8px;
@@ -222,5 +223,9 @@ body {
 
   .card-3 {
     margin-top: 0px;
+  }
+
+  .paragraph-rate {
+    margin: 0;
   }
 }
